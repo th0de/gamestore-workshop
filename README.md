@@ -14,7 +14,7 @@ In this workshop, you will learn how to create a RESTful API with Express using 
 
 Inside our `/api/` directory, we have a `videoGames.js` file. This file contains all of our video game routes. We have already created the route handler for `GET /api/video-games`. This route handler will return all of the video games in our database.
 
-Unfortunately, there is a problem with the database query. The query is not returning any video games. We need to fix this query so that it returns all of the video games in our database.
+<!-- Unfortunately, there is a problem with the database query. The query is not returning any video games. We need to fix this query so that it returns all of the video games in our database. -->
 
 HINT: Follow the logic in the `getAllVideoGames()` function.
 
